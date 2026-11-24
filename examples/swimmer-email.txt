@@ -1,0 +1,48 @@
+OPEN WATER SWIM CLUB
+
+Autumn Gala 2026 · Saturday 12 December 2026
+
+YOUR HEATS ARE SEEDED, {{first_name}}
+
+Good news: your 5 races are seeded, first 50m Freestyle at 09:30, heat 4, lane 1.
+
+Warm-up opens at 08:30 on Saturday 12 December 2026, at Harbour Lane Pool, 25m, 6 lanes, 14 Harbour Lane, Bristol. Report to the marshalling area two heats before yours, and check in with the timekeeper at the end of your lane.
+
+Autumn Gala 2026 · Saturday 12 December 2026 · Warm-up 08:30 · Harbour Lane Pool, 25m, 6 lanes
+
+Event | Heat | Lane | Seed
+OW-E01 50m Freestyle | 4 | 1 | 27.85
+OW-E02 100m Freestyle | 3 | 1 | 1:01.20
+OW-E05 100m Butterfly | 2 | 2 | 1:08.40
+OW-E07 200m Individual Medley | 2 | 2 | 2:38.20
+OW-E08 4x50m Freestyle Relay | 1 | 3 | 1:52.30
+
+Relay: Dolphins (OW-R01), 4x50m freestyle, heat 1, lane 3, seed 1:52.30. Swim order: Finn, Liam, Ada, Sam.
+
+Swimmer: OW-SW-01 · Age group: 14-15 · Races: 5 · Sessions: Session 1, morning, Session 2, afternoon, Session 3, evening.
+
+50m Freestyle, 09:30, heat 4, lane 1; 100m Freestyle, 10:15, heat 3, lane 1; 100m Butterfly, 14:20, heat 2, lane 2; 200m Individual Medley, 16:00, heat 2, lane 2; 4x50m Freestyle Relay, 17:10, heat 1, lane 3.
+
+THE GALA
+
+Autumn Gala 2026 runs Saturday 12 December 2026: eight events, 108 individual entries, six relay teams, three sessions from 09:30 to the last relay.
+
+Event | Session | Time | Heats
+OW-E01 50m Freestyle | Session 1, morning | 09:30 | 4
+OW-E02 100m Freestyle | Session 1, morning | 10:15 | 3
+OW-E03 50m Backstroke | Session 1, morning | 11:00 | 2
+OW-E04 100m Breaststroke | Session 2, afternoon | 13:30 | 3
+OW-E05 100m Butterfly | Session 2, afternoon | 14:20 | 2
+OW-E06 200m Freestyle | Session 2, afternoon | 15:05 | 2
+OW-E07 200m Individual Medley | Session 3, evening | 16:00 | 2
+OW-E08 4x50m Freestyle Relay | Session 3, evening | 17:10 | 1
+
+See the full gala (https://openwater.example/gala/2026)
+
+Swimmer OW-SW-01 · OPEN WATER Swim Club, Autumn Gala 2026, Saturday 12 December 2026.
+
+OPEN WATER Swim Club · 14 Harbour Lane, Bristol · One gala at a time, every heat seeded by time
+
+One meet file rendered this, email, page, heat sheet, and lane cards, with Hyper Elements.
+
+You receive this email because you entered the gala at OPEN WATER Swim Club. Unsubscribe ({{unsubscribe_url}})
