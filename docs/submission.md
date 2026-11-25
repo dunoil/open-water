@@ -42,3 +42,5 @@ No hosted preview. `examples/` in the repository contains the swimmer email (HTM
 - [x] I have starred the Hyper Elements repository. (Starred 18 Nov 2026 for the SOWN entry; same account.)
 - [x] My repository is public and contains the complete source code and required README.
 - [x] My submission meets the requirements of the selected challenge.
+
+Posted: https://github.com/hyper-elements/hyper-elements/discussions/352 (25 Nov 2026)
